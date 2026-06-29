@@ -1,0 +1,21 @@
+# Gradle
+.gradle
+build/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# Minecraft Run Directory
+run/
+
+# OS files
+Thumbs.db
+.DS_Store
